@@ -9,7 +9,7 @@ Označenie pracovného hárku + oblasti
 Worksheets("").Range("").Select
 Zapísanie hodnoty do pracovného hárku + oblasti
 Worksheets("").Range("").Value
-Formátovanie textu =
+             Formátovanie textu =
 Rem format - font.color pre hlavicku
 Range("A1:G1").Font.Color = RGB(40, 180, 50)
 Rem format - Tučné písmo
